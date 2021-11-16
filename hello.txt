@@ -1,1 +1,1 @@
-asdfg
+Web technologies : html,css,js,angular
